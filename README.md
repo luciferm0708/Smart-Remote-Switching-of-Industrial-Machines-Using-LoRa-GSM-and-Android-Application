@@ -6,7 +6,7 @@ This project enables controlling industrial machines from:
 
 ✔ **LoRa-based long range remote**  
 ✔ **GSM/SMS-based switching**  
-✔ **Android Application**  
+✔ **Android Application**  To see the application visit - https://github.com/luciferm0708/Mobile-Application-of-Smart-Remote-Switching
 ✔ **Web IoT Dashboard backend**
 
 The system supports:
