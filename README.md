@@ -1,0 +1,1 @@
+# Smart-Remote-Switching-of-Industrial-Machines-Using-LoRa-GSM-and-Android-Application
